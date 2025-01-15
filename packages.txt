@@ -1,3 +1,13 @@
 hyprland-git
 sddm
 kitty
+obsidian
+dolphin
+firefox
+tofi
+spotify-launcher
+vesktop
+bitwarden-desktop
+betterbird
+qalculate-gtk
+bemoji
