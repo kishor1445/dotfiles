@@ -103,6 +103,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+# SSH fix for Kitty terminal
+[ "$TERM" = "xterm-kitty" ] && alias ssh="kitty +kitten ssh"
+
 export EDITOR=nvim
 
 # Vi-Mode Settings
