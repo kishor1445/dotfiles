@@ -1,0 +1,3 @@
+hyprland-git
+sddm
+kitty
