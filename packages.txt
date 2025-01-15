@@ -11,3 +11,4 @@ bitwarden-desktop
 betterbird
 qalculate-gtk
 bemoji
+lazygit
