@@ -107,6 +107,7 @@ source $ZSH/oh-my-zsh.sh
 [ "$TERM" = "xterm-kitty" ] && alias ssh="kitty +kitten ssh"
 
 export EDITOR=nvim
+export BROWSER=firefox
 
 # Vi-Mode Settings
 export VI_MODE_RESET_PROMPT_ON_MODE_CHANGE=ture
@@ -123,3 +124,4 @@ alias ls='lsd'
 alias ll='lsd -l'
 alias la='lsd -a'
 alias lg='lazygit'
+alias gcca='gcc -fno-asynchronous-unwind-tables -fno-exceptions -fverbose-asm -Wall -Wextra -S'
